@@ -6,7 +6,7 @@
 
 > ✨ Du kannst Nested Tables verwenden
 > - **als Array** mit Ganzzahlen als Index (klassische Reihenfolge)
-> - **als Hashtabelle** mit benutzerdefinierten Schüsseln (`INDEX BY`)
+> - **als Hashtabelle** mit benutzerdefinierten Schlüsseln (`INDEX BY`)
 > - für **Massenoperationen** wie `BULK COLLECT`
 
 ---
@@ -99,5 +99,3 @@ END;
 | Reihenfolge wichtig (z. B. Liste)         | Nested Table (Array)        |
 | Beliebige Schlüssel (z. B. Namen)         | Nested Table mit `INDEX BY` |
 | Viele Zeilen aus Tabelle holen           | BULK COLLECT + Nested Table |
-
----
