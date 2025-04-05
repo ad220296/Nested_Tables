@@ -1,5 +1,10 @@
 # 🧩 2.2 Nested Tables in PL/SQL
 
+Zu:
+
+- 📘 [Records & Rowtypes](https://github.com/ad220296/Records)
+- 📦 [Packages & Sichtbarkeit](https://github.com/ad220296/Packages)
+
 ## 🔍 Einführung
 
 **Nested Tables** sind flexible Datenstrukturen in PL/SQL. Sie erlauben es, mehrere Werte vom gleichen Typ zu speichern – vergleichbar mit Arrays oder Listen in anderen Sprachen.
